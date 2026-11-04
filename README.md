@@ -23,7 +23,7 @@ C, powershell, self-sign EXE for own testing code
 - **GCC / MinGW**：用於編譯 C 語言程式碼及資源檔（`windres`）。
 - **Windows SDK (SignTool)**：用於對可執行檔進行數位簽署（`signtool.exe`）。
 - **PowerShell 5.1+**：用於產生自簽憑證。
-- **credential manager** **認證管理員**  用於檢視自簽憑證。  
+- 按下 Win + R 鍵打開「執行」視窗，輸入 **certmgr.msc** 並按下 Enter, **cert** **管理使用者憑證**  用於檢視自簽憑證。  
 
 ### 專案目錄結構
 ```text
