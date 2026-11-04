@@ -34,8 +34,8 @@ ProjectRoot/
 │   ├── make_cert.ps1             # 建立並匯出憑證的 PowerShell 腳本
 │   └── sign.bat                  # 數位簽署作業批次檔
 ├── resource.rc                   # Windows 資源定義檔
-├── main1.c          # 主程式碼 1
-├── main1_with_ico.c # 主程式碼 2
+├── main1.c                       # 主程式碼 1
+├── main1_with_ico.c              # 主程式碼 2
 └── build_and_sign.bat            # 一鍵編譯與簽署總腳本
 ```
 
